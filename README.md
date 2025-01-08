@@ -39,4 +39,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![image alt](https://github.com/Dhruvpanwar27/Library_Management/blob/1d74a08de83cd0391da3f7d0f71831c504baab2b/Screenshot%202025-01-08%20at%207.06.17%20PM.png)
 
+![image alt](https://github.com/Dhruvpanwar27/Library_Management/blob/2fa40ca22f8cc6d5607e86033f67194b7884a9af/Screenshot%202025-01-08%20at%207.06.41%20PM.png)
+
 
